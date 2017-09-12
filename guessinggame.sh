@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo "Enter a directory where you want to count the no. of files (Ex. /home/valid_dir_name) :"
 read path
 
